@@ -1,4 +1,4 @@
-import { GitHubIcon } from "@components/Icons";
+
 import LinkButton from "@components/LinkButton";
 import SearchInput from "@components/SearchInput";
 import ThemeToggle from "@components/ThemeToggle";
@@ -14,7 +14,6 @@ const Header = () => {
           target="_blank"
           rel="#"
         >
-          <GitHubIcon />
           <span></span>
         </LinkButton>
       </nav>
