@@ -11,6 +11,11 @@ const Header = () => {
       <nav className="primary-nav">
         <SearchInput />
         <ThemeToggle />
+        <LinkButton
+
+        >
+          <GitHubIcon />
+        </LinkButton>
       </nav>
     </header>
   );
