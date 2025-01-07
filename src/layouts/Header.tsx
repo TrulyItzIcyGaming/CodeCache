@@ -1,6 +1,5 @@
 import { GitHubIcon } from "@components/Icons";
 import LinkButton from "@components/LinkButton";
-import Logo from "@components/Logo";
 import SearchInput from "@components/SearchInput";
 import ThemeToggle from "@components/ThemeToggle";
 
