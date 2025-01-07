@@ -1,7 +1,7 @@
 ---
 title: Check if String is a Palindrome
 description: Checks whether a given string is a palindrome.
-author: axorax
+author: ItzIcyGaming
 tags: check,palindrome,string
 ---
 

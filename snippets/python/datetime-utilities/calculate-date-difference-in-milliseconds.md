@@ -1,7 +1,7 @@
 ---
 title: Calculate Date Difference in Milliseconds
 description: Calculates the difference between two dates in milliseconds.
-author: e3nviction
+author: ItzIcyGaming
 tags: datetime,difference
 ---
 

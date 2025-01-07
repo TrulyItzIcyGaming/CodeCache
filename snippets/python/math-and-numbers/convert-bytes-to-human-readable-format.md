@@ -1,7 +1,7 @@
 ---
 title: Convert Bytes to Human-Readable Format
 description: Converts a size in bytes to a human-readable format.
-author: axorax
+author: ItzIcyGaming
 tags: bytes,format
 ---
 

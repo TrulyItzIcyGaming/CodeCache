@@ -1,7 +1,7 @@
 ---
 title: Prime Number
 description: Checks if a number is a prime number or not.
-author: JanluOfficial
+author: ItzIcyGaming
 tags: math,number-theory,algebra
 ---
 

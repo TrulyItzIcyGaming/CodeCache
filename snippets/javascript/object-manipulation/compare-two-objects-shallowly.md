@@ -1,7 +1,7 @@
 ---
 title: Compare Two Objects Shallowly
 description: Compares two objects shallowly and returns whether they are equal.
-author: axorax
+author: ItzIcyGaming
 tags: object,compare,shallow
 ---
 

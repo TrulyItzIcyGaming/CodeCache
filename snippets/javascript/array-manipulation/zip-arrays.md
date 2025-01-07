@@ -1,7 +1,7 @@
 ---
 title: Zip Arrays
 description: Combines two arrays by pairing corresponding elements from each array.
-author: Swaraj-Singh-30
+author: ItzIcyGaming
 tags: array,map
 ---
 

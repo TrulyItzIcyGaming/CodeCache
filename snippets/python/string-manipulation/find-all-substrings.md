@@ -1,7 +1,7 @@
 ---
 title: Find All Substrings
 description: Finds all substrings of a given string.
-author: axorax
+author: ItzIcyGaming
 tags: string,substring,find
 ---
 

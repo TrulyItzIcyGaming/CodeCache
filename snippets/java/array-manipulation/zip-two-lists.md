@@ -1,7 +1,7 @@
 ---
 title: Zip Two Lists
 description: Zips two lists into a list of paired elements, combining corresponding elements from both lists.
-author: davidanukam
+author: ItzIcyGaming
 tags: lists,zip,stream-api,collections
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert String to Pascal Case
 description: Converts a given string into Pascal Case.
-author: aumirza
+author: ItzIcyGaming
 tags: string,case,pascalCase
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Find Longest Word
 description: Finds the longest word in a string.
-author: axorax
+author: ItzIcyGaming
 tags: string,longest-word
 ---
 

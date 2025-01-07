@@ -1,7 +1,7 @@
 ---
 title: Count Word Occurrences in String
 description: Counts the occurrences of each word in a given string.
-author: ACR1209
+author: ItzIcyGaming
 tags: string,occurrences,word-count
 ---
 

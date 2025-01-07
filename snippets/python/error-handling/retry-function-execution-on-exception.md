@@ -1,7 +1,7 @@
 ---
 title: Retry Function Execution on Exception
 description: Retries a function execution a specified number of times if it raises an exception.
-author: axorax
+author: ItzIcyGaming
 tags: error-handling,retry
 ---
 

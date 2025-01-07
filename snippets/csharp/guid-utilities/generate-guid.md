@@ -1,7 +1,7 @@
 ---
 title: Generate GUID
 description: Generates a new GUID
-author: chaitanya-jvnm
+author: ItzIcyGaming
 tags: guid,generate
 ---
 

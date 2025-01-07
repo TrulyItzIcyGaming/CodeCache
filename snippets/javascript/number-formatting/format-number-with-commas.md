@@ -1,7 +1,7 @@
 ---
 title: Format Number with Commas
 description: Formats a number with commas for better readability (e.g., 1000 -> 1,000).
-author: axorax
+author: ItzIcyGaming
 tags: number,format
 ---
 

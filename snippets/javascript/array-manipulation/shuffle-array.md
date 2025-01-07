@@ -1,7 +1,7 @@
 ---
 title: Shuffle Array
 description: Shuffles an Array.
-author: loxt-nixo
+author: ItzIcyGaming
 tags: array,shuffle
 ---
 

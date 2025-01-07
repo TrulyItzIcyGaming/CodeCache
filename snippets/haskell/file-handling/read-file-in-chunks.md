@@ -1,7 +1,7 @@
 ---
 title: Read File in Chunks
 description: Reads a file in chunks grouped by lines.
-author: ACR1209
+author: ItzIcyGaming
 tags: file,read,chunks,utility
 ---
 

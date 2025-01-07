@@ -1,7 +1,7 @@
 ---
 title: Curry Function
 description: Transforms a function into its curried form.
-author: axorax
+author: ItzIcyGaming
 tags: curry,function
 ---
 

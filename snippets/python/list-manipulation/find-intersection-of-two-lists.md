@@ -1,7 +1,7 @@
 ---
 title: Find Intersection of Two Lists
 description: Finds the common elements between two lists.
-author: axorax
+author: ItzIcyGaming
 tags: list,intersection
 ---
 

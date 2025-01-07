@@ -1,7 +1,7 @@
 ---
 title: Remove Punctuation
 description: Removes all punctuation from a given string.
-author: ACR1209
+author: ItzIcyGaming
 tags: string,punctuation,remove
 ---
 

@@ -5,7 +5,7 @@
             {
                 "title": "Hello, World!",
                 "description": "Prints Hello, World! to the terminal.",
-                "author": "James-Beans",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "printing",
                     "hello-world"
@@ -21,7 +21,7 @@
             {
                 "title": "Calculate Date Difference in Milliseconds",
                 "description": "Calculates the difference between two dates in milliseconds.",
-                "author": "e3nviction",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "datetime",
                     "difference"
@@ -32,7 +32,7 @@
             {
                 "title": "Check if Date is a Weekend",
                 "description": "Checks whether a given date falls on a weekend.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "datetime",
                     "weekend"
@@ -43,7 +43,7 @@
             {
                 "title": "Day of the Week String",
                 "description": "Gets the string of the day of the week for a given date.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "datetime",
                     "weekday"
@@ -54,7 +54,7 @@
             {
                 "title": "Generate Date Range List",
                 "description": "Generates a list of dates between two given dates.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "datetime",
                     "range"
@@ -65,7 +65,7 @@
             {
                 "title": "Get Current Date and Time as String",
                 "description": "Fetches the current date and time as a formatted string.",
-                "author": "e3nviction",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "datetime",
                     "current",
@@ -77,7 +77,7 @@
             {
                 "title": "Get Number of Days in a Month",
                 "description": "Determines the number of days in a specific month and year.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "datetime",
                     "calendar"
@@ -88,7 +88,7 @@
             {
                 "title": "Measure Execution Time",
                 "description": "Measures the execution time of a code block.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "time",
                     "execution"
@@ -104,7 +104,7 @@
             {
                 "title": "Create Custom Exception Type",
                 "description": "Create a Custom Exception Type that can be called with raise.",
-                "author": "mrcool7387",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "python",
                     "error-creation",
@@ -117,7 +117,7 @@
             {
                 "title": "Retry Function Execution on Exception",
                 "description": "Retries a function execution a specified number of times if it raises an exception.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "error-handling",
                     "retry"
@@ -133,7 +133,7 @@
             {
                 "title": "Find Files",
                 "description": "Finds all files of the specified type within a given directory.",
-                "author": "Jackeastern",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "os",
                     "filesystem",
@@ -145,7 +145,7 @@
             {
                 "title": "Get File Extension",
                 "description": "Gets the extension of a file.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "file",
                     "extension"
@@ -156,7 +156,7 @@
             {
                 "title": "List Files in Directory",
                 "description": "Lists all files in a specified directory.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "file",
                     "list",
@@ -168,7 +168,7 @@
             {
                 "title": "Read File in Chunks",
                 "description": "Reads a file in chunks of a specified size.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "file",
                     "read",
@@ -185,7 +185,7 @@
             {
                 "title": "Filter JSON Data",
                 "description": "Filters a JSON object based on a condition and returns the filtered data.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "json",
                     "filter",
@@ -197,7 +197,7 @@
             {
                 "title": "Flatten Nested JSON",
                 "description": "Flattens a nested JSON object into a flat dictionary.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "json",
                     "flatten",
@@ -209,7 +209,7 @@
             {
                 "title": "Merge Multiple JSON Files",
                 "description": "Merges multiple JSON files into one and writes the merged data into a new file.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "json",
                     "merge",
@@ -221,7 +221,7 @@
             {
                 "title": "Read JSON File",
                 "description": "Reads a JSON file and parses its content.",
-                "author": "e3nviction",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "json",
                     "file",
@@ -233,7 +233,7 @@
             {
                 "title": "Update JSON File",
                 "description": "Updates an existing JSON file with new data or modifies the existing values.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "json",
                     "update",
@@ -245,7 +245,7 @@
             {
                 "title": "Write JSON File",
                 "description": "Writes a dictionary to a JSON file.",
-                "author": "e3nviction",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "json",
                     "file",
@@ -262,7 +262,7 @@
             {
                 "title": "Find Duplicates in a List",
                 "description": "Identifies duplicate elements in a list.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "list",
                     "duplicates"
@@ -273,7 +273,7 @@
             {
                 "title": "Find Intersection of Two Lists",
                 "description": "Finds the common elements between two lists.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "list",
                     "intersection"
@@ -284,7 +284,7 @@
             {
                 "title": "Find Maximum Difference in List",
                 "description": "Finds the maximum difference between any two elements in a list.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "list",
                     "difference"
@@ -295,7 +295,7 @@
             {
                 "title": "Flatten Nested List",
                 "description": "Flattens a multi-dimensional list into a single list.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "list",
                     "flatten"
@@ -306,7 +306,7 @@
             {
                 "title": "Flatten Unevenly Nested Lists",
                 "description": "Converts unevenly nested lists of any depth into a single flat list.",
-                "author": "agilarasu",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "list",
                     "flattening",
@@ -319,7 +319,7 @@
             {
                 "title": "Partition List",
                 "description": "Partitions a list into sublists of a given size.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "list",
                     "partition"
@@ -330,7 +330,7 @@
             {
                 "title": "Remove Duplicates",
                 "description": "Removes duplicate elements from a list while maintaining order.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "list",
                     "duplicates",
@@ -347,7 +347,7 @@
             {
                 "title": "Calculate Compound Interest",
                 "description": "Calculates compound interest for a given principal amount, rate, and time period.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "python",
                     "math",
@@ -360,7 +360,7 @@
             {
                 "title": "Check Perfect Square",
                 "description": "Checks if a number is a perfect square.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "perfect square",
@@ -372,7 +372,7 @@
             {
                 "title": "Check Prime Number",
                 "description": "Checks if a number is a prime number.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "prime",
@@ -384,7 +384,7 @@
             {
                 "title": "Convert Binary to Decimal",
                 "description": "Converts a binary string to its decimal equivalent.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "binary",
@@ -397,7 +397,7 @@
             {
                 "title": "Convert Bytes to Human-Readable Format",
                 "description": "Converts a size in bytes to a human-readable format.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "bytes",
                     "format"
@@ -408,7 +408,7 @@
             {
                 "title": "Find LCM (Least Common Multiple)",
                 "description": "Calculates the least common multiple (LCM) of two numbers.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "python",
                     "math",
@@ -422,7 +422,7 @@
             {
                 "title": "Solve Quadratic Equation",
                 "description": "Solves a quadratic equation ax^2 + bx + c = 0 and returns the roots.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "quadratic",
@@ -440,7 +440,7 @@
             {
                 "title": "Create SQLite Database Table",
                 "description": "Creates a table in an SQLite database with a dynamic schema.",
-                "author": "e3nviction",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "sqlite",
                     "database",
@@ -452,7 +452,7 @@
             {
                 "title": "Insert Data into Sqlite Table",
                 "description": "Inserts a row into a specified SQLite table using a dictionary of fields and values.",
-                "author": "e3nviction",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "sqlite",
                     "database"
@@ -463,7 +463,7 @@
             {
                 "title": "Query Data from Sqlite Table",
                 "description": "Fetches data from a specified SQLite table, with options for selecting specific columns and applying a WHERE clause.",
-                "author": "pl44t",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "sqlite",
                     "database"
@@ -474,7 +474,7 @@
             {
                 "title": "Update Records in Sqlite Table",
                 "description": "Updates records in a specified SQLite table, allowing dynamic column updates and an optional WHERE clause.",
-                "author": "pl44t",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "sqlite",
                     "database"
@@ -490,7 +490,7 @@
             {
                 "title": "Capitalize Words",
                 "description": "Capitalizes the first letter of each word in a string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "capitalize"
@@ -501,7 +501,7 @@
             {
                 "title": "Check Anagram",
                 "description": "Checks if two strings are anagrams of each other.",
-                "author": "SteliosGee",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "anagram",
@@ -513,7 +513,7 @@
             {
                 "title": "Check Palindrome",
                 "description": "Checks if a string is a palindrome.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "palindrome"
@@ -524,7 +524,7 @@
             {
                 "title": "Convert Snake Case to Camel Case",
                 "description": "Converts a snake_case string to camelCase.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "snake-case",
@@ -537,7 +537,7 @@
             {
                 "title": "Convert String to ASCII",
                 "description": "Converts a string into its ASCII representation.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "ascii",
@@ -549,7 +549,7 @@
             {
                 "title": "Count Character Frequency",
                 "description": "Counts the frequency of each character in a string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "character-frequency"
@@ -560,7 +560,7 @@
             {
                 "title": "Count Vowels",
                 "description": "Counts the number of vowels in a string.",
-                "author": "SteliosGee",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "vowels",
@@ -572,7 +572,7 @@
             {
                 "title": "Count Words",
                 "description": "Counts the number of words in a string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "word-count"
@@ -583,7 +583,7 @@
             {
                 "title": "Find All Substrings",
                 "description": "Finds all substrings of a given string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "substring",
@@ -595,7 +595,7 @@
             {
                 "title": "Find Longest Word",
                 "description": "Finds the longest word in a string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "longest-word"
@@ -606,7 +606,7 @@
             {
                 "title": "Find Unique Characters",
                 "description": "Finds all unique characters in a string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "unique",
@@ -618,7 +618,7 @@
             {
                 "title": "Generate Random String",
                 "description": "Generates a random alphanumeric string.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "random",
                     "string"
@@ -629,7 +629,7 @@
             {
                 "title": "Remove Duplicate Characters",
                 "description": "Removes duplicate characters from a string while maintaining the order.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "duplicates",
@@ -641,7 +641,7 @@
             {
                 "title": "Remove Punctuation",
                 "description": "Removes punctuation from a string.",
-                "author": "SteliosGee",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "punctuation",
@@ -653,7 +653,7 @@
             {
                 "title": "Remove Specific Characters",
                 "description": "Removes specific characters from a string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "remove",
@@ -665,7 +665,7 @@
             {
                 "title": "Remove Whitespace",
                 "description": "Removes all whitespace from a string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "whitespace",
@@ -677,7 +677,7 @@
             {
                 "title": "Reverse String",
                 "description": "Reverses the characters in a string.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "reverse"
@@ -688,7 +688,7 @@
             {
                 "title": "Split Camel Case",
                 "description": "Splits a camel case string into separate words.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "camel-case",
@@ -700,7 +700,7 @@
             {
                 "title": "Truncate String",
                 "description": "Truncates a string to a specified length and adds an ellipsis.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "truncate"

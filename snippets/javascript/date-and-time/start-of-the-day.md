@@ -1,7 +1,7 @@
 ---
 title: Start of the Day
 description: Returns the start of the day (midnight) for a given date.
-author: axorax
+author: ItzIcyGaming
 tags: date,start-of-day
 ---
 

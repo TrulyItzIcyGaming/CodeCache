@@ -1,7 +1,7 @@
 ---
 title: Find LCM (Least Common Multiple)
 description: Calculates the least common multiple (LCM) of two numbers.
-author: axorax
+author: ItzIcyGaming
 tags: python,math,lcm,gcd,utility
 ---
 

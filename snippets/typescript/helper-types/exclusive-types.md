@@ -1,7 +1,7 @@
 ---
 title: Exclusive Types
 description: Allows to have a type which conforms to either/or.
-author: px-d
+author: ItzIcyGaming
 tags: typescript,helper-types,typedefinition
 ---
 

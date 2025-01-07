@@ -1,7 +1,7 @@
 ---
 title: Error function
 description: Computes the error function (erf(x)) for a given input x, which is a mathematical function used frequently in probability, statistics, and partial differential equations.
-author: JanluOfficial
+author: ItzIcyGaming
 tags: math
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert to Unix Timestamp
 description: Converts a date to a Unix timestamp in seconds.
-author: Yugveer06
+author: ItzIcyGaming
 tags: date,unix,timestamp
 ---
 

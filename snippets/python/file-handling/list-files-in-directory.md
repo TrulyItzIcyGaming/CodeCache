@@ -1,7 +1,7 @@
 ---
 title: List Files in Directory
 description: Lists all files in a specified directory.
-author: axorax
+author: ItzIcyGaming
 tags: file,list,directory
 ---
 

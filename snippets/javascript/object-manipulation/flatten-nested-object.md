@@ -1,7 +1,7 @@
 ---
 title: Flatten Nested Object
 description: Flattens a nested object into a single-level object with dot notation for keys.
-author: axorax
+author: ItzIcyGaming
 tags: object,flatten
 ---
 

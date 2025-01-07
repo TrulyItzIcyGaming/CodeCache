@@ -1,7 +1,7 @@
 ---
 title: Validate JWT
 description: Validates a JWT.
-author: chaitanya-jvnm
+author: ItzIcyGaming
 tags: jwt,validate
 ---
 

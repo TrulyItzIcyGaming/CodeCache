@@ -1,7 +1,7 @@
 ---
 title: Combinations
 description: Calculates the number of combinations (denoted as C(n,r) or "n choose r"), which determines how many ways you can select r items from n items without considering the order.
-author: JanluOfficial
+author: ItzIcyGaming
 tags: math,number-theory,algebra
 ---
 

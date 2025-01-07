@@ -1,7 +1,7 @@
 ---
 title: Once Function
 description: Ensures a function is only called once.
-author: axorax
+author: ItzIcyGaming
 tags: function,once
 ---
 

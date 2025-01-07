@@ -1,7 +1,7 @@
 ---
 title: Get File Extension
 description: Gets the extension of a file.
-author: axorax
+author: ItzIcyGaming
 tags: file,extension
 ---
 

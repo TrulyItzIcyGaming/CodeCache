@@ -1,7 +1,7 @@
 ---
 title: Random string
 description: Generates a random string of characters of a certain length
-author: kruimol
+author: ItzIcyGaming
 tags: function,random
 ---
 

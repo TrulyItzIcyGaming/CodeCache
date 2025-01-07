@@ -1,7 +1,7 @@
 ---
 title: Bubble Sort 
 description: Sorts an array of integers using the Bubble Sort algorithm.
-author: 0xHouss
+author: ItzIcyGaming
 tags: sorting,bubblesort,array,algorithm
 ---
 

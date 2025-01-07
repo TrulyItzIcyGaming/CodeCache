@@ -1,7 +1,7 @@
 ---
 title: Primary Button
 description: Generates a styled primary button.
-author: dostonnabotov
+author: ItzIcyGaming
 tags: button,primary,css
 ---
 

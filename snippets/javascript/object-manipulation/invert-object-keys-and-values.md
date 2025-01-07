@@ -1,7 +1,7 @@
 ---
 title: Invert Object Keys and Values
 description: Creates a new object by swapping keys and values of the given object.
-author: axorax
+author: ItzIcyGaming
 tags: object,invert
 ---
 

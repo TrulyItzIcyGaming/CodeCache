@@ -5,7 +5,7 @@
             {
                 "title": "Blink Animation",
                 "description": "Adds an infinite blinking animation to an element",
-                "author": "AlsoKnownAs-Ax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "animation",
                     "blink",
@@ -17,7 +17,7 @@
             {
                 "title": "Pulse Animation",
                 "description": "Adds a smooth pulsing animation with opacity and scale effects",
-                "author": "AlsoKnownAs-Ax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "animation",
                     "pulse",
@@ -29,7 +29,7 @@
             {
                 "title": "Shake Animation",
                 "description": "Adds a shake animation ( commonly used to mark invalid fields )",
-                "author": "AlsoKnownAs-Ax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "shake",
                     "shake-horizontal"
@@ -40,7 +40,7 @@
             {
                 "title": "Slide-in Animation",
                 "description": "Adds a slide-in from the right side of the screen",
-                "author": "AlsoKnownAs-Ax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "animation",
                     "slide-in",
@@ -52,7 +52,7 @@
             {
                 "title": "Typewriter Animation",
                 "description": "Adds a typewriter animation + blinking cursor",
-                "author": "AlsoKnownAs-Ax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "blinking",
                     "typewriter"
@@ -68,7 +68,7 @@
             {
                 "title": "3D Button Effect",
                 "description": "Adds a 3D effect to a button when clicked.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "button",
                     "3D",
@@ -80,7 +80,7 @@
             {
                 "title": "Button Hover Effect",
                 "description": "Creates a hover effect with a color transition.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "button",
                     "hover",
@@ -92,7 +92,7 @@
             {
                 "title": "MacOS Button",
                 "description": "A macOS-like button style, with hover and shading effects.",
-                "author": "e3nviction",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "button",
                     "macos",
@@ -110,7 +110,7 @@
             {
                 "title": "Blur Background",
                 "description": "Applies a blur effect to the background of an element.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "blur",
                     "background",
@@ -122,7 +122,7 @@
             {
                 "title": "Hover Glow Effect",
                 "description": "Adds a glowing effect on hover.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "hover",
                     "glow",
@@ -134,7 +134,7 @@
             {
                 "title": "Hover to Reveal Color",
                 "description": "A card with an image that transitions from grayscale to full color on hover.",
-                "author": "Haider-Mukhtar",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "hover",
                     "image",
@@ -151,7 +151,7 @@
             {
                 "title": "CSS Reset",
                 "description": "Resets some default browser styles, ensuring consistency across browsers.",
-                "author": "AmeerMoustafa",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "reset",
                     "browser",
@@ -163,7 +163,7 @@
             {
                 "title": "Equal-Width Columns",
                 "description": "Creates columns with equal widths using flexbox.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "flexbox",
                     "columns",
@@ -175,7 +175,7 @@
             {
                 "title": "Grid layout",
                 "description": "Equal sized items in a responsive grid",
-                "author": "xshubhamg",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "layout",
                     "grid"
@@ -186,7 +186,7 @@
             {
                 "title": "Responsive Design",
                 "description": "The different responsive breakpoints.",
-                "author": "kruimol",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "responsive",
                     "media queries"
@@ -197,7 +197,7 @@
             {
                 "title": "Sticky Footer",
                 "description": "Ensures the footer always stays at the bottom of the page.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "layout",
                     "footer",
@@ -214,7 +214,7 @@
             {
                 "title": "Letter Spacing",
                 "description": "Adds space between letters for better readability.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "typography",
                     "spacing"
@@ -225,7 +225,7 @@
             {
                 "title": "Responsive Font Sizing",
                 "description": "Adjusts font size based on viewport width.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "font",
                     "responsive",

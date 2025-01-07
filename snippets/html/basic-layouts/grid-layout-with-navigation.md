@@ -1,7 +1,7 @@
 ---
 title: Grid Layout with Navigation
 description: Full-height grid layout with header navigation using nesting syntax.
-author: GreenMan36
+author: ItzIcyGaming
 tags: css,layout,sticky,grid,full-height
 ---
 

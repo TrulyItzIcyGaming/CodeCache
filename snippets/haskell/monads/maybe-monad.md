@@ -1,7 +1,7 @@
 ---
 title: Maybe Monad
 description: Using the Maybe monad to handle computations that might fail.
-author: ACR1209
+author: ItzIcyGaming
 tags: monads, maybe
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Day of the Week String
 description: Gets the string of the day of the week for a given date.
-author: axorax
+author: ItzIcyGaming
 tags: datetime,weekday
 ---
 

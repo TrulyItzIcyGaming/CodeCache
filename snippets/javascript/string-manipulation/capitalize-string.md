@@ -1,7 +1,7 @@
 ---
 title: Capitalize String
 description: Capitalizes the first letter of a string.
-author: dostonnabotov
+author: ItzIcyGaming
 tags: string,capitalize
 ---
 

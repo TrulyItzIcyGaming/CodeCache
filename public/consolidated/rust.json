@@ -5,7 +5,7 @@
             {
                 "title": "Hello, World!",
                 "description": "Prints Hello, World! to the terminal.",
-                "author": "James-Beans",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "printing",
                     "hello-world"
@@ -21,7 +21,7 @@
             {
                 "title": "Find Files",
                 "description": "Finds all files of the specified extension within a given directory.",
-                "author": "Mathys-Gasnier",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "file",
                     "search"
@@ -32,7 +32,7 @@
             {
                 "title": "Read File Lines",
                 "description": "Reads all lines from a file and returns them as a vector of strings.",
-                "author": "Mathys-Gasnier",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "file",
                     "read"
@@ -48,7 +48,7 @@
             {
                 "title": "Capitalize String",
                 "description": "Makes the first letter of a string uppercase.",
-                "author": "Mathys-Gasnier",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "capitalize"

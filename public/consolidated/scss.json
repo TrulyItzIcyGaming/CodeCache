@@ -5,7 +5,7 @@
             {
                 "title": "Fade In Animation",
                 "description": "Animates the fade-in effect.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "animation",
                     "fade",
@@ -17,7 +17,7 @@
             {
                 "title": "Slide In From Left",
                 "description": "Animates content sliding in from the left.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "animation",
                     "slide",
@@ -34,7 +34,7 @@
             {
                 "title": "Border Radius Helper",
                 "description": "Applies a customizable border-radius.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "border",
                     "radius",
@@ -46,7 +46,7 @@
             {
                 "title": "Box Shadow Helper",
                 "description": "Generates a box shadow with customizable values.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "box-shadow",
                     "css",
@@ -63,7 +63,7 @@
             {
                 "title": "Primary Button",
                 "description": "Generates a styled primary button.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "button",
                     "primary",
@@ -80,7 +80,7 @@
             {
                 "title": "Aspect Ratio",
                 "description": "Ensures that elements maintain a specific aspect ratio.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "aspect-ratio",
                     "layout",
@@ -92,7 +92,7 @@
             {
                 "title": "Dark Theme",
                 "description": "SCSS mixin to change styles for dark themes.",
-                "author": "gihanrangana",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "css",
                     "mixin",
@@ -106,7 +106,7 @@
             {
                 "title": "Flex Center",
                 "description": "A mixin to center content using flexbox.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "flex",
                     "center",
@@ -118,7 +118,7 @@
             {
                 "title": "Grid Container",
                 "description": "Creates a responsive grid container with customizable column counts.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "grid",
                     "layout",
@@ -135,7 +135,7 @@
             {
                 "title": "Font Import Helper",
                 "description": "Simplifies importing custom fonts in Sass.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "mixin",
                     "fonts",
@@ -147,7 +147,7 @@
             {
                 "title": "Line Clamp Mixin",
                 "description": "A Sass mixin to clamp text to a specific number of lines.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "mixin",
                     "typography",
@@ -159,7 +159,7 @@
             {
                 "title": "PX to REM Helper",
                 "description": "This function will convert px values to rem values.",
-                "author": "gihanrangana",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "function",
                     "pixel",
@@ -172,7 +172,7 @@
             {
                 "title": "Text Gradient",
                 "description": "Adds a gradient color effect to text.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "mixin",
                     "gradient",
@@ -185,7 +185,7 @@
             {
                 "title": "Text Overflow Ellipsis",
                 "description": "Ensures long text is truncated with an ellipsis.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "mixin",
                     "text",
@@ -202,7 +202,7 @@
             {
                 "title": "Clearfix",
                 "description": "Provides a clearfix utility for floating elements.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "clearfix",
                     "utility",
@@ -214,7 +214,7 @@
             {
                 "title": "Responsive Breakpoints",
                 "description": "Generates media queries for responsive design.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "responsive",
                     "media-queries",

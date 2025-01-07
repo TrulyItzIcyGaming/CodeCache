@@ -1,7 +1,7 @@
 ---
 title: Convert String to Title Case
 description: Converts a given string into Title Case.
-author: aumirza
+author: ItzIcyGaming
 tags: string,case,titleCase
 ---
 

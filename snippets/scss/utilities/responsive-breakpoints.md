@@ -1,7 +1,7 @@
 ---
 title: Responsive Breakpoints
 description: Generates media queries for responsive design.
-author: dostonnabotov
+author: ItzIcyGaming
 tags: responsive,media-queries,css
 ---
 

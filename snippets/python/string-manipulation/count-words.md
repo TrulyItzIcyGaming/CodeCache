@@ -1,7 +1,7 @@
 ---
 title: Count Words
 description: Counts the number of words in a string.
-author: axorax
+author: ItzIcyGaming
 tags: string,word-count
 ---
 

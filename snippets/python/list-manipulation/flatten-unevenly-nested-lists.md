@@ -1,7 +1,7 @@
 ---
 title: Flatten Unevenly Nested Lists
 description: Converts unevenly nested lists of any depth into a single flat list.
-author: agilarasu
+author: ItzIcyGaming
 tags: list,flattening,nested-lists,depth
 ---
 

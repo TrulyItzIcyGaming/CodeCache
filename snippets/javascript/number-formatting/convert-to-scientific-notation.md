@@ -1,7 +1,7 @@
 ---
 title: Convert to Scientific Notation
 description: Converts a number to scientific notation.
-author: axorax
+author: ItzIcyGaming
 tags: number,scientific
 ---
 

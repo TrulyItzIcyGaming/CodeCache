@@ -1,7 +1,7 @@
 ---
 title: Partition List
 description: Partitions a list into sublists of a given size.
-author: axorax
+author: ItzIcyGaming
 tags: list,partition
 ---
 

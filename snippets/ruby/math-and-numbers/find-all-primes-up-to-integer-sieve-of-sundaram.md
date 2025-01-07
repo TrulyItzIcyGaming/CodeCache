@@ -1,7 +1,7 @@
 ---
 title: Find all primes up to integer (Sieve of Sundaram)
 description: Finds all the prime numbers up to a specific integer.
-author: ACR1209
+author: ItzIcyGaming
 tags: math,prime numbers
 ---
 

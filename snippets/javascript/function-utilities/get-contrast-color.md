@@ -1,7 +1,7 @@
 ---
 title: Get Contrast Color
 description: Returns either black or white text color based on the brightness of the provided hex color.
-author: yaya12085
+author: ItzIcyGaming
 tags: color,hex,contrast,brightness
 ---
 

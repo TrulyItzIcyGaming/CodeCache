@@ -1,7 +1,7 @@
 ---
 title: Check if Date is a Weekend
 description: Checks whether a given date falls on a weekend.
-author: axorax
+author: ItzIcyGaming
 tags: datetime,weekend
 ---
 

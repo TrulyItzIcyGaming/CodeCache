@@ -1,7 +1,7 @@
 ---
 title: Remove Falsy Values
 description: Removes falsy values from an array.
-author: mubasshir
+author: ItzIcyGaming
 tags: array,falsy,filter
 ---
 

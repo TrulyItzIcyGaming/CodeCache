@@ -1,7 +1,7 @@
 ---
 title: Count Character Frequency
 description: Counts the frequency of each character in a string.
-author: axorax
+author: ItzIcyGaming
 tags: string,character-frequency
 ---
 

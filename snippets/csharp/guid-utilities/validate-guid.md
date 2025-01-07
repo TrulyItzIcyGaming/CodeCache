@@ -1,7 +1,7 @@
 ---
 title: Validate GUID
 description: Checks if a string is a valid GUID.
-author: chaitanya-jvnm
+author: ItzIcyGaming
 tags: guid,validate
 ---
 

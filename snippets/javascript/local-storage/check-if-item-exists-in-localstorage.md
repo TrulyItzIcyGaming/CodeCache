@@ -1,7 +1,7 @@
 ---
 title: Check if Item Exists in localStorage
 description: Checks if a specific item exists in localStorage.
-author: axorax
+author: ItzIcyGaming
 tags: localStorage,storage
 ---
 

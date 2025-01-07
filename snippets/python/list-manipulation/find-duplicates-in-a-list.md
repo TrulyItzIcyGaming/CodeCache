@@ -1,7 +1,7 @@
 ---
 title: Find Duplicates in a List
 description: Identifies duplicate elements in a list.
-author: axorax
+author: ItzIcyGaming
 tags: list,duplicates
 ---
 

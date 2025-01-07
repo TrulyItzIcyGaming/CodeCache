@@ -1,7 +1,7 @@
 ---
 title: Hello-World
 description: Prints Hello world in the console
-author: SarvariHarshitha
+author: ItzIcyGaming
 tags: java, console, printing
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Matrix Multiplication
 description: Multiplies two matrices, where the number of columns in the first matrix equals the number of rows in the second.
-author: JanluOfficial
+author: ItzIcyGaming
 tags: math,matrix-algebra
 ---
 

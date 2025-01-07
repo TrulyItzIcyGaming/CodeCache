@@ -1,7 +1,7 @@
 ---
 title: Create Custom Exception Type
 description: Create a Custom Exception Type that can be called with raise.
-author: mrcool7387
+author: ItzIcyGaming
 tags: python,error-creation,organisation,utility
 ---
 

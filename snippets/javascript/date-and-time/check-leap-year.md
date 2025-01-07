@@ -1,7 +1,7 @@
 ---
 title: Check Leap Year
 description: Determines if a given year is a leap year.
-author: axorax
+author: ItzIcyGaming
 tags: date,leap-year
 ---
 

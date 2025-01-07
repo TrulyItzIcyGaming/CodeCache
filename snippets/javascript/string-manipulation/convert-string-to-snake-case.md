@@ -1,7 +1,7 @@
 ---
 title: Convert String to Snake Case
 description: Converts a given string into snake_case.
-author: axorax
+author: ItzIcyGaming
 tags: string,case,snake_case
 ---
 

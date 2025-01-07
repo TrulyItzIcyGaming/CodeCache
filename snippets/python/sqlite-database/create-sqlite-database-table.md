@@ -1,7 +1,7 @@
 ---
 title: Create SQLite Database Table
 description: Creates a table in an SQLite database with a dynamic schema.
-author: e3nviction
+author: ItzIcyGaming
 tags: sqlite,database,table
 ---
 

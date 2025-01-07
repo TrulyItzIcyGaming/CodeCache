@@ -1,7 +1,7 @@
 ---
 title: Rate Limit Function
 description: Limits how often a function can be executed within a given time window.
-author: axorax
+author: ItzIcyGaming
 tags: function,rate-limiting
 ---
 

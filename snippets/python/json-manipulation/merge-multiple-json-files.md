@@ -1,7 +1,7 @@
 ---
 title: Merge Multiple JSON Files
 description: Merges multiple JSON files into one and writes the merged data into a new file.
-author: axorax
+author: ItzIcyGaming
 tags: json,merge,file
 ---
 

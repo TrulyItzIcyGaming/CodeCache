@@ -1,7 +1,7 @@
 ---
 title: Find Files
 description: Finds all files of the specified type within a given directory.
-author: Jackeastern
+author: ItzIcyGaming
 tags: os,filesystem,file_search
 ---
 

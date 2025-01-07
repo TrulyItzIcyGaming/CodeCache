@@ -1,7 +1,7 @@
 ---
 title: Mask Sensitive Information
 description: Masks parts of a sensitive string, like a credit card or email address.
-author: axorax
+author: ItzIcyGaming
 tags: string,mask,sensitive
 ---
 

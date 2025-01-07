@@ -1,7 +1,7 @@
 --- 
 title: Writer Monad
 description: Using the Writer monad to accumulate logs or other outputs alongside a computation.
-author: ACR1209
+author: ItzIcyGaming
 tags: monads, writer, logs
 ---
 

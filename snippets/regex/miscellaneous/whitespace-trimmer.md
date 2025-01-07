@@ -1,7 +1,7 @@
 ---
 Title: Whitespace Trimmer
 Description: Matches leading and/or trailing whitespace.
-Author: majvax
+Author: ItzIcyGaming
 Tags: trim
 ---
 

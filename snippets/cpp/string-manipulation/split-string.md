@@ -1,7 +1,7 @@
 ---
 title: Split String
 description: Splits a string by a delimiter
-author: saminjay
+author: ItzIcyGaming
 tags: string,split
 ---
 

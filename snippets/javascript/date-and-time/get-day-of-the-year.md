@@ -1,7 +1,7 @@
 ---
 title: Get Day of the Year
 description: Calculates the day of the year (1-365 or 1-366 for leap years) for a given date.
-author: axorax
+author: ItzIcyGaming
 tags: date,day-of-year
 ---
 

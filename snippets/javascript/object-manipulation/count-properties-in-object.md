@@ -1,7 +1,7 @@
 ---
 title: Count Properties in Object
 description: Counts the number of own properties in an object.
-author: axorax
+author: ItzIcyGaming
 tags: object,count,properties
 ---
 

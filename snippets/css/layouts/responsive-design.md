@@ -1,7 +1,7 @@
 ---
 title: Responsive Design
 description: The different responsive breakpoints.
-author: kruimol
+author: ItzIcyGaming
 tags: responsive,media queries
 ---
 

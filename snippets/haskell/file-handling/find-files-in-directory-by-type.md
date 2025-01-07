@@ -1,7 +1,7 @@
 ---
 title: Find Files in Directory by Type
 description: Finds all files in a directory with a specific extension.
-author: ACR1209
+author: ItzIcyGaming
 tags: file,search,extension,filesystem
 ---
 

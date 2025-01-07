@@ -1,7 +1,7 @@
 ---
 title: Button Hover Effect
 description: Creates a hover effect with a color transition.
-author: dostonnabotov
+author: ItzIcyGaming
 tags: button,hover,transition
 ---
 

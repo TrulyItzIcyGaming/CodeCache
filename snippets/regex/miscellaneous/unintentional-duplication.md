@@ -1,7 +1,7 @@
 ---
 Title: Unintentional Duplication
 Description: Matches duplicated word in a text.
-Author: majvax
+Author: ItzIcyGaming
 Tags: duplication
 ---
 

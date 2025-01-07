@@ -1,7 +1,7 @@
 ---
 title: CamelCase to snake_case
 description: Converts a Camel Case string to Snake case.
-author: ACR1209
+author: ItzIcyGaming
 tags: string,convert,camel-case,snake-case,utility
 ---
 

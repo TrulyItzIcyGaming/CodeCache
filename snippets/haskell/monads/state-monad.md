@@ -1,7 +1,7 @@
 ---
 title: State Monad
 description: Managing mutable state using the State monad.
-author: ACR1209
+author: ItzIcyGaming
 tags: monads, state, state-management
 ---
 

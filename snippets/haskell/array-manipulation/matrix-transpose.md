@@ -1,7 +1,7 @@
 ---
 title: Matrix Transpose
 description: Transposes a 2D matrix.
-author: ACR1209
+author: ItzIcyGaming
 tags: array,matrix,transpose
 ---
 

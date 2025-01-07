@@ -1,7 +1,7 @@
 ---
 title: Vector Print
 description: Overloads the << operator to print the contents of a vector just like in python.
-author: Mohamed-faaris
+author: ItzIcyGaming
 tags: printing,debuging,vector
 ---
 

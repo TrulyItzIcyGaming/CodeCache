@@ -1,7 +1,7 @@
 ---
 title: Convert String to ASCII
 description: Converts a string into its ASCII representation.
-author: axorax
+author: ItzIcyGaming
 tags: string,ascii,convert
 ---
 

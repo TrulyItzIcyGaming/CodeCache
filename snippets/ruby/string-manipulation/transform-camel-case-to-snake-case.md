@@ -1,7 +1,7 @@
 ---
 title: Transform Camel Case to Snake Case
 description: Converts a Camel or Pascal Case string to Snake case.
-author: ACR1209
+author: ItzIcyGaming
 tags: string,convert,camel-case,snake-case,pascal-case
 ---
 

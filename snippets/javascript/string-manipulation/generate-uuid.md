@@ -1,7 +1,7 @@
 ---
 title: Generate UUID
 description: Generates a UUID (v4) string.
-author: jjcantu
+author: ItzIcyGaming
 tags: uuid, generate, string
 ---
 

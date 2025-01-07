@@ -1,7 +1,7 @@
 ---
 title: Partition Array
 description: Splits an array into two arrays based on a callback function.
-author: Swaraj-Singh-30
+author: ItzIcyGaming
 tags: array,partition,reduce
 ---
 

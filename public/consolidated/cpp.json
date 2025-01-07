@@ -5,7 +5,7 @@
             {
                 "title": "Hello, World!",
                 "description": "Prints Hello, World! to the terminal.",
-                "author": "James-Beans",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "printing",
                     "hello-world"
@@ -21,7 +21,7 @@
             {
                 "title": "Vector to Queue",
                 "description": "Convert vector into queue quickly",
-                "author": "mrityunjay2003",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "data structures",
                     "queue",
@@ -38,7 +38,7 @@
             {
                 "title": "Vector Print",
                 "description": "Overloads the << operator to print the contents of a vector just like in python.",
-                "author": "Mohamed-faaris",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "printing",
                     "debuging",
@@ -55,7 +55,7 @@
             {
                 "title": "Vector Print",
                 "description": "Overloads the << operator to print the contents of a vector just like in python.",
-                "author": "Mohamed-faaris",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "printing",
                     "debuging",
@@ -72,7 +72,7 @@
             {
                 "title": "Check Prime Number",
                 "description": "Check if an integer is a prime number",
-                "author": "MihneaMoso",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "number",
                     "prime"
@@ -88,7 +88,7 @@
             {
                 "title": "Reverse String",
                 "description": "Reverses the characters in a string.",
-                "author": "Vaibhav-kesarwani",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "array",
                     "reverse"
@@ -99,7 +99,7 @@
             {
                 "title": "Split String",
                 "description": "Splits a string by a delimiter",
-                "author": "saminjay",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "split"

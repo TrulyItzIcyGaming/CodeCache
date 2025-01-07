@@ -1,7 +1,7 @@
 ---
 title: Capitalize Words
 description: Capitalizes the first letter of each word in a string.
-author: ACR1209
+author: ItzIcyGaming
 tags: string,capitalize,words
 ---
 

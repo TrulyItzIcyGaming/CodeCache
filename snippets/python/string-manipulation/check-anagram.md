@@ -1,7 +1,7 @@
 ---
 title: Check Anagram
 description: Checks if two strings are anagrams of each other.
-author: SteliosGee
+author: ItzIcyGaming
 tags: string,anagram,check
 ---
 

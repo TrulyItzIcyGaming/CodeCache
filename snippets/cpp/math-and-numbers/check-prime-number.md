@@ -2,7 +2,7 @@
 title: Check Prime Number
 description: Check if an integer is a prime number
 tags: number, prime
-author: MihneaMoso
+author: ItzIcyGaming
 ---
 
 ```cpp

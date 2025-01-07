@@ -1,7 +1,7 @@
 ---
 Title: Hexadecimal Color
 Description: Matches hex color codes
-Author: majvax
+Author: ItzIcyGaming
 Tags: color,hexadecimal
 ---
 

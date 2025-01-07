@@ -1,7 +1,7 @@
 ---
 title: Truncate Text
 description: Truncates the text to a maximum length and appends '...' if the text exceeds the maximum length.
-author: realvishalrana
+author: ItzIcyGaming
 tags: string,truncate,text
 ---
 

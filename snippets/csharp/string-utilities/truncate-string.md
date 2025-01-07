@@ -1,7 +1,7 @@
 ---
 title: Truncate String
 description: Cut off a string once it reaches a determined amount of characters and add '...' to the end of the string
-author: omegaleo
+author: ItzIcyGaming
 tags: string,truncate
 ---
 

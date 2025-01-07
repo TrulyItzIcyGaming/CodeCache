@@ -1,7 +1,7 @@
 ---
 title: Convert Binary to Decimal
 description: Converts a binary string to its decimal equivalent.
-author: axorax
+author: ItzIcyGaming
 tags: math,binary,decimal,conversion
 ---
 

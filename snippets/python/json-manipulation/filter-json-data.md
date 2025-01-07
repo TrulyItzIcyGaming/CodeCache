@@ -1,7 +1,7 @@
 ---
 title: Filter JSON Data
 description: Filters a JSON object based on a condition and returns the filtered data.
-author: axorax
+author: ItzIcyGaming
 tags: json,filter,data
 ---
 

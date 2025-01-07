@@ -1,7 +1,7 @@
 ---
 title: Calculate Factorial
 description: Computes the factorial of a given integer.
-author: ACR1209
+author: ItzIcyGaming
 tags: math,factorial
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Find Maximum Difference in List
 description: Finds the maximum difference between any two elements in a list.
-author: axorax
+author: ItzIcyGaming
 tags: list,difference
 ---
 

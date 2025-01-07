@@ -1,7 +1,7 @@
 ---
 title: Update Records in Sqlite Table
 description: Updates records in a specified SQLite table, allowing dynamic column updates and an optional WHERE clause.
-author: pl44t
+author: ItzIcyGaming
 tags: sqlite,database
 ---
 

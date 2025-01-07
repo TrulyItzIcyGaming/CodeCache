@@ -1,7 +1,7 @@
 ---
 title: Swap items at index
 description: Swaps two items at determined indexes
-author: omegaleo
+author: ItzIcyGaming
 tags: list,swapping
 ---
 

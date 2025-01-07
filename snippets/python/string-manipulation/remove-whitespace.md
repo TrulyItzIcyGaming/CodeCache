@@ -1,7 +1,7 @@
 ---
 title: Remove Whitespace
 description: Removes all whitespace from a string.
-author: axorax
+author: ItzIcyGaming
 tags: string,whitespace,remove
 ---
 

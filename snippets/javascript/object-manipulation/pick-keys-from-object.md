@@ -1,7 +1,7 @@
 ---
 title: Pick Keys from Object
 description: Creates a new object with only the specified keys.
-author: axorax
+author: ItzIcyGaming
 tags: object,pick
 ---
 

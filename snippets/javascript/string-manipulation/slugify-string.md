@@ -1,7 +1,7 @@
 ---
 title: Slugify String
 description: Converts a string into a URL-friendly slug format.
-author: dostonnabotov
+author: ItzIcyGaming
 tags: string,slug
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert String to Param Case
 description: Converts a given string into param-case.
-author: aumirza
+author: ItzIcyGaming
 tags: string,case,paramCase
 ---
 

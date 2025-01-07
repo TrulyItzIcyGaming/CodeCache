@@ -1,7 +1,7 @@
 ---
 title: Text Gradient
 description: Adds a gradient color effect to text.
-author: dostonnabotov
+author: ItzIcyGaming
 tags: mixin,gradient,text,css
 ---
 

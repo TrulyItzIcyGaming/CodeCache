@@ -1,7 +1,7 @@
 ---
 title: Merge Objects Deeply
 description: Deeply merges two or more objects, including nested properties.
-author: axorax
+author: ItzIcyGaming
 tags: object,merge,deep
 ---
 

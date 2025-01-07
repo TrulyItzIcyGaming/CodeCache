@@ -2,7 +2,7 @@
 title: Vector to Queue
 description: Convert vector into queue quickly
 tags: data structures,queue,vector
-author: mrityunjay2003
+author: ItzIcyGaming
 ---
 
 ```cpp

@@ -1,7 +1,7 @@
 ---
 title: Pulse Animation
 description: Adds a smooth pulsing animation with opacity and scale effects
-author: AlsoKnownAs-Ax
+author: ItzIcyGaming
 tags: animation,pulse,pulse-scale
 ---
 

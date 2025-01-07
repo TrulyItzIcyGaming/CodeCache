@@ -1,7 +1,7 @@
 ---
 title: Cross Product
 description: Computes the cross product of two 3D vectors, which results in a vector perpendicular to both.
-author: JanluOfficial
+author: ItzIcyGaming
 tags: math,vector-algebra
 ---
 

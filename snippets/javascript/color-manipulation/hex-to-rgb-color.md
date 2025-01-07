@@ -1,7 +1,7 @@
 ---
 title: Hex to RGB Color
 description: Converts hexadecimal color code to RGB color values.
-author: pvictordev
+author: ItzIcyGaming
 tags: color,conversion
 ---
 

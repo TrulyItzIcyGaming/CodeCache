@@ -1,7 +1,7 @@
 ---
 title: Unique By Key
 description: Filters an array of objects to only include unique objects by a specified key.
-author: realvishalrana
+author: ItzIcyGaming
 tags: array,unique
 ---
 

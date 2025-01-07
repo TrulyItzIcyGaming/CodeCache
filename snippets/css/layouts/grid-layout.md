@@ -1,7 +1,7 @@
 ---
 title: Grid layout
 description: Equal sized items in a responsive grid
-author: xshubhamg
+author: ItzIcyGaming
 tags: layout,grid
 ---
 

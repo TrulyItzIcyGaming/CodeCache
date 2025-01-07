@@ -1,7 +1,7 @@
 ---
 title: Factorial Function
 description: Calculates the factorial of a number.
-author: 0xHouss
+author: ItzIcyGaming
 tags: math,factorial
 ---
 

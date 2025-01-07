@@ -1,7 +1,7 @@
 ---
 title: Modular Inverse
 description: Computes the modular multiplicative inverse of a number a under modulo m, which is the integer x such that (a*x) mod m=1.
-author: JanluOfficial
+author: ItzIcyGaming
 tags: math,number-theory,algebra
 ---
 

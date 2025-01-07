@@ -1,7 +1,7 @@
 ---
 title: Calculate Compound Interest
 description: Calculates compound interest for a given principal amount, rate, and time period.
-author: axorax
+author: ItzIcyGaming
 tags: python,math,compound interest,finance
 ---
 

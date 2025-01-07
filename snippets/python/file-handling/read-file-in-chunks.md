@@ -1,7 +1,7 @@
 ---
 title: Read File in Chunks
 description: Reads a file in chunks of a specified size.
-author: axorax
+author: ItzIcyGaming
 tags: file,read,chunks
 ---
 

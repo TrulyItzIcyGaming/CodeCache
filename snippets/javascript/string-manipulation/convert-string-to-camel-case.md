@@ -1,7 +1,7 @@
 ---
 title: Convert String to Camel Case
 description: Converts a given string into camelCase.
-author: aumirza
+author: ItzIcyGaming
 tags: string,case,camelCase
 ---
 

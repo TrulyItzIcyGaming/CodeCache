@@ -1,7 +1,7 @@
 ---
 title: Dark Theme
 description: SCSS mixin to change styles for dark themes.
-author: gihanrangana
+author: ItzIcyGaming
 tags: css, mixin, snippet, dark-theme, layout
 ---
 

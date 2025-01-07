@@ -1,7 +1,7 @@
 ---
 title: Update JSON File
 description: Updates an existing JSON file with new data or modifies the existing values.
-author: axorax
+author: ItzIcyGaming
 tags: json,update,file
 ---
 

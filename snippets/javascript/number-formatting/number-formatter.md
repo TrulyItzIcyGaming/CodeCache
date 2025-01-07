@@ -1,7 +1,7 @@
 ---
 title: Number Formatter
 description: Formats a number with suffixes (K, M, B, etc.).
-author: realvishalrana
+author: ItzIcyGaming
 tags: number,format
 ---
 

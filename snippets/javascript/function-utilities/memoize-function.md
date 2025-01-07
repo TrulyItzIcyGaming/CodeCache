@@ -1,7 +1,7 @@
 ---
 title: Memoize Function
 description: Caches the result of a function based on its arguments to improve performance.
-author: axorax
+author: ItzIcyGaming
 tags: memoization,optimization
 ---
 

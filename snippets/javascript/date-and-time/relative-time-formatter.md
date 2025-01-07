@@ -1,7 +1,7 @@
 ---
 title: Relative Time Formatter
 description: Displays how long ago a date occurred or how far in the future a date is.
-author: Yugveer06
+author: ItzIcyGaming
 tags: date,time,relative,future,past
 ---
 

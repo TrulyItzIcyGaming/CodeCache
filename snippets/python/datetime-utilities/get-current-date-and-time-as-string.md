@@ -1,7 +1,7 @@
 ---
 title: Get Current Date and Time as String
 description: Fetches the current date and time as a formatted string.
-author: e3nviction
+author: ItzIcyGaming
 tags: datetime,current,string
 ---
 

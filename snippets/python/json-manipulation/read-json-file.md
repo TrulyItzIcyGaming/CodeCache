@@ -1,7 +1,7 @@
 ---
 title: Read JSON File
 description: Reads a JSON file and parses its content.
-author: e3nviction
+author: ItzIcyGaming
 tags: json,file,read
 ---
 

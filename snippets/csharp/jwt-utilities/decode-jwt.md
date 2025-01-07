@@ -1,7 +1,7 @@
 ---
 title: Decode JWT
 description: Decodes a JWT.
-author: chaitanya-jvnm
+author: ItzIcyGaming
 tags: jwt,decode
 ---
 

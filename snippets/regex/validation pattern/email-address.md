@@ -1,7 +1,7 @@
 ---
 Title: Email Address
 Description: Match any email address
-Author: majvax
+Author: ItzIcyGaming
 Tags: email
 ---
 

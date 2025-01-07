@@ -1,7 +1,7 @@
 ---
 title: Remove Vowels from a String
 description: Removes all vowels from a given string.
-author: axorax
+author: ItzIcyGaming
 tags: string,remove,vowels
 ---
 

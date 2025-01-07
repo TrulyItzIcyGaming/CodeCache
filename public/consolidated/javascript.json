@@ -5,7 +5,7 @@
             {
                 "title": "Partition Array",
                 "description": "Splits an array into two arrays based on a callback function.",
-                "author": "Swaraj-Singh-30",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "array",
                     "partition",
@@ -17,7 +17,7 @@
             {
                 "title": "Remove Duplicates",
                 "description": "Removes duplicate values from an array.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "array",
                     "deduplicate"
@@ -28,7 +28,7 @@
             {
                 "title": "Remove Falsy Values",
                 "description": "Removes falsy values from an array.",
-                "author": "mubasshir",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "array",
                     "falsy",
@@ -40,7 +40,7 @@
             {
                 "title": "Shuffle Array",
                 "description": "Shuffles an Array.",
-                "author": "loxt-nixo",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "array",
                     "shuffle"
@@ -51,7 +51,7 @@
             {
                 "title": "Zip Arrays",
                 "description": "Combines two arrays by pairing corresponding elements from each array.",
-                "author": "Swaraj-Singh-30",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "array",
                     "map"
@@ -67,7 +67,7 @@
             {
                 "title": "Hello, World!",
                 "description": "Prints Hello, World! to the terminal.",
-                "author": "James-Beans",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "printing",
                     "hello-world"
@@ -83,7 +83,7 @@
             {
                 "title": "Hex to RGB Color",
                 "description": "Converts hexadecimal color code to RGB color values.",
-                "author": "pvictordev",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "color",
                     "conversion"
@@ -94,7 +94,7 @@
             {
                 "title": "HSL to RGB Color",
                 "description": "Converts HSL color values to RGB color values.",
-                "author": "pvictordev",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "color",
                     "conversion"
@@ -105,7 +105,7 @@
             {
                 "title": "RGB to Hex Color",
                 "description": "Converts RGB color values to hexadecimal color code.",
-                "author": "jjcantu",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "color",
                     "conversion"
@@ -116,7 +116,7 @@
             {
                 "title": "RGB to HSL Color",
                 "description": "Converts RGB color values to HSL color values.",
-                "author": "pvictordev",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "color",
                     "conversion"
@@ -132,7 +132,7 @@
             {
                 "title": "Check Leap Year",
                 "description": "Determines if a given year is a leap year.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "date",
                     "leap-year"
@@ -143,7 +143,7 @@
             {
                 "title": "Convert to Unix Timestamp",
                 "description": "Converts a date to a Unix timestamp in seconds.",
-                "author": "Yugveer06",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "date",
                     "unix",
@@ -155,7 +155,7 @@
             {
                 "title": "Format Date",
                 "description": "Formats a date in 'YYYY-MM-DD' format.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "date",
                     "format"
@@ -166,7 +166,7 @@
             {
                 "title": "Get Day of the Year",
                 "description": "Calculates the day of the year (1-365 or 1-366 for leap years) for a given date.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "date",
                     "day-of-year"
@@ -177,7 +177,7 @@
             {
                 "title": "Get Days in Month",
                 "description": "Calculates the number of days in a specific month of a given year.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "date",
                     "days-in-month"
@@ -188,7 +188,7 @@
             {
                 "title": "Get Time Difference",
                 "description": "Calculates the time difference in days between two dates.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "date",
                     "time-difference"
@@ -199,7 +199,7 @@
             {
                 "title": "Relative Time Formatter",
                 "description": "Displays how long ago a date occurred or how far in the future a date is.",
-                "author": "Yugveer06",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "date",
                     "time",
@@ -213,7 +213,7 @@
             {
                 "title": "Start of the Day",
                 "description": "Returns the start of the day (midnight) for a given date.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "date",
                     "start-of-day"
@@ -229,7 +229,7 @@
             {
                 "title": "Change Element Style",
                 "description": "Changes the inline style of an element.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "dom",
                     "style"
@@ -240,7 +240,7 @@
             {
                 "title": "Remove Element",
                 "description": "Removes a specified element from the DOM.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "dom",
                     "remove"
@@ -256,7 +256,7 @@
             {
                 "title": "Compose Functions",
                 "description": "Composes multiple functions into a single function, where the output of one function becomes the input of the next.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "function",
                     "compose"
@@ -267,7 +267,7 @@
             {
                 "title": "Curry Function",
                 "description": "Transforms a function into its curried form.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "curry",
                     "function"
@@ -278,7 +278,7 @@
             {
                 "title": "Debounce Function",
                 "description": "Delays a function execution until after a specified time.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "debounce",
                     "performance"
@@ -289,7 +289,7 @@
             {
                 "title": "Get Contrast Color",
                 "description": "Returns either black or white text color based on the brightness of the provided hex color.",
-                "author": "yaya12085",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "color",
                     "hex",
@@ -302,7 +302,7 @@
             {
                 "title": "Memoize Function",
                 "description": "Caches the result of a function based on its arguments to improve performance.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "memoization",
                     "optimization"
@@ -313,7 +313,7 @@
             {
                 "title": "Once Function",
                 "description": "Ensures a function is only called once.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "function",
                     "once"
@@ -324,7 +324,7 @@
             {
                 "title": "Rate Limit Function",
                 "description": "Limits how often a function can be executed within a given time window.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "function",
                     "rate-limiting"
@@ -335,7 +335,7 @@
             {
                 "title": "Repeat Function Invocation",
                 "description": "Invokes a function a specified number of times.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "function",
                     "repeat"
@@ -346,7 +346,7 @@
             {
                 "title": "Sleep Function",
                 "description": "Waits for a specified amount of milliseconds before resolving.",
-                "author": "0xHouss",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "javascript",
                     "sleep",
@@ -365,7 +365,7 @@
             {
                 "title": "Add Item to localStorage",
                 "description": "Stores a value in localStorage under the given key.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "localStorage",
                     "storage"
@@ -376,7 +376,7 @@
             {
                 "title": "Check if Item Exists in localStorage",
                 "description": "Checks if a specific item exists in localStorage.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "localStorage",
                     "storage"
@@ -387,7 +387,7 @@
             {
                 "title": "Retrieve Item from localStorage",
                 "description": "Retrieves a value from localStorage by key and parses it.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "localStorage",
                     "storage"
@@ -403,7 +403,7 @@
             {
                 "title": "Combinations",
                 "description": "Calculates the number of combinations (denoted as C(n,r) or \"n choose r\"), which determines how many ways you can select r items from n items without considering the order.",
-                "author": "JanluOfficial",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "number-theory",
@@ -415,7 +415,7 @@
             {
                 "title": "Cross Product",
                 "description": "Computes the cross product of two 3D vectors, which results in a vector perpendicular to both.",
-                "author": "JanluOfficial",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "vector-algebra"
@@ -426,7 +426,7 @@
             {
                 "title": "Dot Product",
                 "description": "Computes the dot product of two vectors, which is the sum of the products of corresponding elements.",
-                "author": "JanluOfficial",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "vector-algebra"
@@ -437,7 +437,7 @@
             {
                 "title": "Error function",
                 "description": "Computes the error function (erf(x)) for a given input x, which is a mathematical function used frequently in probability, statistics, and partial differential equations.",
-                "author": "JanluOfficial",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math"
                 ],
@@ -447,7 +447,7 @@
             {
                 "title": "Greatest Common Divisor",
                 "description": "Calculates the largest positive integer that divides each of the integers without leaving a remainder. Useful for calculating aspect ratios.",
-                "author": "JanluOfficial",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "division",
@@ -460,7 +460,7 @@
             {
                 "title": "Least common multiple",
                 "description": "Computes the least common multiple (LCM) of two numbers 𝑎 and b. The LCM is the smallest positive integer that is divisible by both a and b.",
-                "author": "JanluOfficial",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "number-theory",
@@ -472,7 +472,7 @@
             {
                 "title": "Matrix Multiplication",
                 "description": "Multiplies two matrices, where the number of columns in the first matrix equals the number of rows in the second.",
-                "author": "JanluOfficial",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "matrix-algebra"
@@ -483,7 +483,7 @@
             {
                 "title": "Modular Inverse",
                 "description": "Computes the modular multiplicative inverse of a number a under modulo m, which is the integer x such that (a*x) mod m=1.",
-                "author": "JanluOfficial",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "number-theory",
@@ -495,7 +495,7 @@
             {
                 "title": "Prime Number",
                 "description": "Checks if a number is a prime number or not.",
-                "author": "JanluOfficial",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "math",
                     "number-theory",
@@ -512,7 +512,7 @@
             {
                 "title": "Convert Number to Currency",
                 "description": "Converts a number to a currency format with a specific locale.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "number",
                     "currency"
@@ -523,7 +523,7 @@
             {
                 "title": "Convert Number to Roman Numerals",
                 "description": "Converts a number to Roman numeral representation.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "number",
                     "roman"
@@ -534,7 +534,7 @@
             {
                 "title": "Convert to Scientific Notation",
                 "description": "Converts a number to scientific notation.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "number",
                     "scientific"
@@ -545,7 +545,7 @@
             {
                 "title": "Format File Size",
                 "description": "Converts bytes into human-readable file size format.",
-                "author": "jjcantu",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "format",
                     "size"
@@ -556,7 +556,7 @@
             {
                 "title": "Format Number with Commas",
                 "description": "Formats a number with commas for better readability (e.g., 1000 -> 1,000).",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "number",
                     "format"
@@ -567,7 +567,7 @@
             {
                 "title": "Number Formatter",
                 "description": "Formats a number with suffixes (K, M, B, etc.).",
-                "author": "realvishalrana",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "number",
                     "format"
@@ -578,7 +578,7 @@
             {
                 "title": "Number to Words Converter",
                 "description": "Converts a number to its word representation in English.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "number",
                     "words"
@@ -594,7 +594,7 @@
             {
                 "title": "Check if Object is Empty",
                 "description": "Checks whether an object has no own enumerable properties.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "check",
@@ -606,7 +606,7 @@
             {
                 "title": "Compare Two Objects Shallowly",
                 "description": "Compares two objects shallowly and returns whether they are equal.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "compare",
@@ -618,7 +618,7 @@
             {
                 "title": "Convert Object to Query String",
                 "description": "Converts an object to a query string for use in URLs.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "query string",
@@ -630,7 +630,7 @@
             {
                 "title": "Count Properties in Object",
                 "description": "Counts the number of own properties in an object.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "count",
@@ -642,7 +642,7 @@
             {
                 "title": "Deep Clone Object",
                 "description": "Creates a deep copy of an object or array without reference.",
-                "author": "jjcantu",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "clone"
@@ -653,7 +653,7 @@
             {
                 "title": "Filter Object",
                 "description": "Filter out entries in an object where the value is falsy, including empty strings, empty objects, null, and undefined.",
-                "author": "realvishalrana",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "filter"
@@ -664,7 +664,7 @@
             {
                 "title": "Flatten Nested Object",
                 "description": "Flattens a nested object into a single-level object with dot notation for keys.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "flatten"
@@ -675,7 +675,7 @@
             {
                 "title": "Freeze Object",
                 "description": "Freezes an object to make it immutable.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "freeze",
@@ -687,7 +687,7 @@
             {
                 "title": "Get Nested Value",
                 "description": "Retrieves the value at a given path in a nested object.",
-                "author": "realvishalrana",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "nested"
@@ -698,7 +698,7 @@
             {
                 "title": "Invert Object Keys and Values",
                 "description": "Creates a new object by swapping keys and values of the given object.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "invert"
@@ -709,7 +709,7 @@
             {
                 "title": "Merge Objects Deeply",
                 "description": "Deeply merges two or more objects, including nested properties.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "merge",
@@ -721,7 +721,7 @@
             {
                 "title": "Omit Keys from Object",
                 "description": "Creates a new object with specific keys omitted.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "omit"
@@ -732,7 +732,7 @@
             {
                 "title": "Pick Keys from Object",
                 "description": "Creates a new object with only the specified keys.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "object",
                     "pick"
@@ -743,7 +743,7 @@
             {
                 "title": "Unique By Key",
                 "description": "Filters an array of objects to only include unique objects by a specified key.",
-                "author": "realvishalrana",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "array",
                     "unique"
@@ -759,7 +759,7 @@
             {
                 "title": "Capitalize String",
                 "description": "Capitalizes the first letter of a string.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "capitalize"
@@ -770,7 +770,7 @@
             {
                 "title": "Check if String is a Palindrome",
                 "description": "Checks whether a given string is a palindrome.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "check",
                     "palindrome",
@@ -782,7 +782,7 @@
             {
                 "title": "Convert String to Camel Case",
                 "description": "Converts a given string into camelCase.",
-                "author": "aumirza",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "case",
@@ -794,7 +794,7 @@
             {
                 "title": "Convert String to Param Case",
                 "description": "Converts a given string into param-case.",
-                "author": "aumirza",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "case",
@@ -806,7 +806,7 @@
             {
                 "title": "Convert String to Pascal Case",
                 "description": "Converts a given string into Pascal Case.",
-                "author": "aumirza",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "case",
@@ -818,7 +818,7 @@
             {
                 "title": "Convert String to Snake Case",
                 "description": "Converts a given string into snake_case.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "case",
@@ -830,7 +830,7 @@
             {
                 "title": "Convert String to Title Case",
                 "description": "Converts a given string into Title Case.",
-                "author": "aumirza",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "case",
@@ -842,7 +842,7 @@
             {
                 "title": "Convert Tabs to Spaces",
                 "description": "Converts all tab characters in a string to spaces.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "tabs",
@@ -854,7 +854,7 @@
             {
                 "title": "Count Words in a String",
                 "description": "Counts the number of words in a string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "manipulation",
@@ -867,7 +867,7 @@
             {
                 "title": "Data with Prefix",
                 "description": "Adds a prefix and postfix to data, with a fallback value.",
-                "author": "realvishalrana",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "data",
                     "prefix",
@@ -880,7 +880,7 @@
             {
                 "title": "Extract Initials from Name",
                 "description": "Extracts and returns the initials from a full name.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "initials",
@@ -892,7 +892,7 @@
             {
                 "title": "Generate UUID",
                 "description": "Generates a UUID (v4) string.",
-                "author": "jjcantu",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "uuid",
                     "generate",
@@ -904,7 +904,7 @@
             {
                 "title": "Mask Sensitive Information",
                 "description": "Masks parts of a sensitive string, like a credit card or email address.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "mask",
@@ -916,7 +916,7 @@
             {
                 "title": "Pad String on Both Sides",
                 "description": "Pads a string on both sides with a specified character until it reaches the desired length.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "pad",
@@ -928,7 +928,7 @@
             {
                 "title": "Random string",
                 "description": "Generates a random string of characters of a certain length",
-                "author": "kruimol",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "function",
                     "random"
@@ -939,7 +939,7 @@
             {
                 "title": "Remove All Whitespace",
                 "description": "Removes all whitespace from a string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "whitespace"
@@ -950,7 +950,7 @@
             {
                 "title": "Remove Vowels from a String",
                 "description": "Removes all vowels from a given string.",
-                "author": "axorax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "remove",
@@ -962,7 +962,7 @@
             {
                 "title": "Reverse String",
                 "description": "Reverses the characters in a string.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "reverse"
@@ -973,7 +973,7 @@
             {
                 "title": "Slugify String",
                 "description": "Converts a string into a URL-friendly slug format.",
-                "author": "dostonnabotov",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "slug"
@@ -984,7 +984,7 @@
             {
                 "title": "Truncate Text",
                 "description": "Truncates the text to a maximum length and appends '...' if the text exceeds the maximum length.",
-                "author": "realvishalrana",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "truncate",

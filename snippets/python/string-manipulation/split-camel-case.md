@@ -1,7 +1,7 @@
 ---
 title: Split Camel Case
 description: Splits a camel case string into separate words.
-author: axorax
+author: ItzIcyGaming
 tags: string,camel-case,split
 ---
 

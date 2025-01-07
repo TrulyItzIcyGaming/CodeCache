@@ -1,7 +1,7 @@
 ---
 title: Remove Element
 description: Removes a specified element from the DOM.
-author: axorax
+author: ItzIcyGaming
 tags: dom,remove
 ---
 

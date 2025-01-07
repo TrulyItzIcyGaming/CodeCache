@@ -11,14 +11,6 @@ const Header = () => {
       <nav className="primary-nav">
         <SearchInput />
         <ThemeToggle />
-        <LinkButton
-          href="https://github.com/dostonnabotov/quicksnip/blob/main/CONTRIBUTING.md"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <GitHubIcon />
-          <span>Add your snippet</span>
-        </LinkButton>
       </nav>
     </header>
   );

@@ -1,7 +1,7 @@
 ---
 title: Get Number of Days in a Month
 description: Determines the number of days in a specific month and year.
-author: axorax
+author: ItzIcyGaming
 tags: datetime,calendar
 ---
 

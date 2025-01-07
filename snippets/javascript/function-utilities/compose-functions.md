@@ -1,7 +1,7 @@
 ---
 title: Compose Functions
 description: Composes multiple functions into a single function, where the output of one function becomes the input of the next.
-author: axorax
+author: ItzIcyGaming
 tags: function,compose
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Count Vowels
 description: Counts the number of vowels in a string.
-author: SteliosGee
+author: ItzIcyGaming
 tags: string,vowels,count
 ---
 

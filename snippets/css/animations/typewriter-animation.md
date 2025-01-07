@@ -1,7 +1,7 @@
 ---
 title: Typewriter Animation
 description: Adds a typewriter animation + blinking cursor
-author: AlsoKnownAs-Ax
+author: ItzIcyGaming
 tags: blinking,typewriter
 ---
 

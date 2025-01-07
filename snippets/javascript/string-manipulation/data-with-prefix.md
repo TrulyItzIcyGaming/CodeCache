@@ -1,7 +1,7 @@
 ---
 title: Data with Prefix
 description: Adds a prefix and postfix to data, with a fallback value.
-author: realvishalrana
+author: ItzIcyGaming
 tags: data,prefix,postfix,format
 ---
 

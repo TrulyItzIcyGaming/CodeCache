@@ -1,7 +1,7 @@
 ---
 title: Format File Size
 description: Converts bytes into human-readable file size format.
-author: jjcantu
+author: ItzIcyGaming
 tags: format,size
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Dot Product
 description: Computes the dot product of two vectors, which is the sum of the products of corresponding elements.
-author: JanluOfficial
+author: ItzIcyGaming
 tags: math,vector-algebra
 ---
 

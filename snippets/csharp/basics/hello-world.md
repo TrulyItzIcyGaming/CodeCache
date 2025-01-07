@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 description: Prints Hello, World! to the terminal.
-author: chaitanya-jvnm
+author: ItzIcyGaming
 tags: printing,hello-world
 ---
 

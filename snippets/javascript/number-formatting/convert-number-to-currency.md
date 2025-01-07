@@ -1,7 +1,7 @@
 ---
 title: Convert Number to Currency
 description: Converts a number to a currency format with a specific locale.
-author: axorax
+author: ItzIcyGaming
 tags: number,currency
 ---
 

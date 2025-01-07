@@ -1,7 +1,7 @@
 ---
 title: Either Monad for Error Handling
 description: Using the Either monad to handle errors in a computation.
-author: ACR1209
+author: ItzIcyGaming
 tags: monads, either, error handling
 ---
 

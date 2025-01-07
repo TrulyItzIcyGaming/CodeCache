@@ -1,7 +1,7 @@
 ---
 title: Check Perfect Square
 description: Checks if a number is a perfect square.
-author: axorax
+author: ItzIcyGaming
 tags: math,perfect square,check
 ---
 

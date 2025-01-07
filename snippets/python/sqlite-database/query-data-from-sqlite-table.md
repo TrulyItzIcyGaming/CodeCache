@@ -1,7 +1,7 @@
 ---
 title: Query Data from Sqlite Table
 description: Fetches data from a specified SQLite table, with options for selecting specific columns and applying a WHERE clause.
-author: pl44t
+author: ItzIcyGaming
 tags: sqlite,database
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Find Files
 description: Finds all files of the specified extension within a given directory.
-author: Mathys-Gasnier
+author: ItzIcyGaming
 tags: file,search
 ---
 

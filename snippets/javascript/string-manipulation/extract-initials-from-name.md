@@ -1,7 +1,7 @@
 ---
 title: Extract Initials from Name
 description: Extracts and returns the initials from a full name.
-author: axorax
+author: ItzIcyGaming
 tags: string,initials,name
 ---
 

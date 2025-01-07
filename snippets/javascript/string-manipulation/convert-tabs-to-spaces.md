@@ -1,7 +1,7 @@
 ---
 title: Convert Tabs to Spaces
 description: Converts all tab characters in a string to spaces.
-author: axorax
+author: ItzIcyGaming
 tags: string,tabs,spaces
 ---
 

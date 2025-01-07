@@ -1,7 +1,7 @@
 ---
 title: HSL to RGB Color
 description: Converts HSL color values to RGB color values.
-author: pvictordev
+author: ItzIcyGaming
 tags: color,conversion
 ---
 

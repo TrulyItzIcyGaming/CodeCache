@@ -1,7 +1,7 @@
 ---
 title: Find Unique Characters
 description: Finds all unique characters in a string.
-author: axorax
+author: ItzIcyGaming
 tags: string,unique,characters
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Swap numbers
 description: Swaps two numbers without using third variable
-author: Emosans
+author: ItzIcyGaming
 tags: swap,numbers
 ---
 

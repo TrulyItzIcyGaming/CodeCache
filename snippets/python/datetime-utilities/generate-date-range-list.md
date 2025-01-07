@@ -1,7 +1,7 @@
 ---
 title: Generate Date Range List
 description: Generates a list of dates between two given dates.
-author: axorax
+author: ItzIcyGaming
 tags: datetime,range
 ---
 

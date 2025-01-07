@@ -1,7 +1,7 @@
 ---
 title: Write JSON File
 description: Writes a dictionary to a JSON file.
-author: e3nviction
+author: ItzIcyGaming
 tags: json,file,write
 ---
 

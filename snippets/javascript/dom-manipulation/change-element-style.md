@@ -1,7 +1,7 @@
 ---
 title: Change Element Style
 description: Changes the inline style of an element.
-author: axorax
+author: ItzIcyGaming
 tags: dom,style
 ---
 

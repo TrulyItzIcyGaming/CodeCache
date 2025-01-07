@@ -1,7 +1,7 @@
 ---
 title: Least common multiple
 description: Computes the least common multiple (LCM) of two numbers 𝑎 and b. The LCM is the smallest positive integer that is divisible by both a and b.
-author: JanluOfficial
+author: ItzIcyGaming
 tags: math,number-theory,algebra
 ---
 

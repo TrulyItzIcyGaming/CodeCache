@@ -1,7 +1,7 @@
 ---
 title: Reverse String
 description: Reverses the characters in a string.
-author: dostonnabotov
+author: ItzIcyGaming
 tags: string,reverse
 ---
 

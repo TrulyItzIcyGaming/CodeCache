@@ -1,7 +1,7 @@
 ---
 title: Flatten Nested JSON
 description: Flattens a nested JSON object into a flat dictionary.
-author: axorax
+author: ItzIcyGaming
 tags: json,flatten,nested
 ---
 

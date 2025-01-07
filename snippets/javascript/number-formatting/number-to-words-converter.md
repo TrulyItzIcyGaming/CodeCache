@@ -1,7 +1,7 @@
 ---
 title: Number to Words Converter
 description: Converts a number to its word representation in English.
-author: axorax
+author: ItzIcyGaming
 tags: number,words
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Deep Clone Object
 description: Creates a deep copy of an object or array without reference.
-author: jjcantu
+author: ItzIcyGaming
 tags: object,clone
 ---
 

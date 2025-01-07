@@ -1,7 +1,7 @@
 ---
 title: Freeze Object
 description: Freezes an object to make it immutable.
-author: axorax
+author: ItzIcyGaming
 tags: object,freeze,immutable
 ---
 

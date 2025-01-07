@@ -1,7 +1,7 @@
 ---
 title: Omit Keys from Object
 description: Creates a new object with specific keys omitted.
-author: axorax
+author: ItzIcyGaming
 tags: object,omit
 ---
 

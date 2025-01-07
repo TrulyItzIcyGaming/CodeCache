@@ -1,7 +1,7 @@
 ---
 title: Filter Object
 description: Filter out entries in an object where the value is falsy, including empty strings, empty objects, null, and undefined.
-author: realvishalrana
+author: ItzIcyGaming
 tags: object,filter
 ---
 

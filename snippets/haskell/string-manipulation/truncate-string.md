@@ -1,7 +1,7 @@
 ---
 title: Truncate String
 description: Truncates a string to a specified length, optionally adding an ellipsis.
-author: ACR1209
+author: ItzIcyGaming
 tags: string,truncate,utility
 ---
 

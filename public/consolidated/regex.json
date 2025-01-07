@@ -5,7 +5,7 @@
             {
                 "title": "Hexadecimal Color",
                 "description": "Matches hex color codes",
-                "author": "majvax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "color",
                     "hexadecimal"
@@ -16,7 +16,7 @@
             {
                 "title": "IPv4",
                 "description": "Matches IPv4 address",
-                "author": "majvax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "ipv4",
                     "networking"
@@ -27,7 +27,7 @@
             {
                 "title": "Unintentional Duplication",
                 "description": "Matches duplicated word in a text.",
-                "author": "majvax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "duplication"
                 ],
@@ -37,7 +37,7 @@
             {
                 "title": "Whitespace Trimmer",
                 "description": "Matches leading and/or trailing whitespace.",
-                "author": "majvax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "trim"
                 ],
@@ -52,7 +52,7 @@
             {
                 "title": "Email Address",
                 "description": "Match any email address",
-                "author": "majvax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "email"
                 ],
@@ -62,7 +62,7 @@
             {
                 "title": "Strong Password",
                 "description": "Match password with at least 12 characters, one uppercased letter, one number, and one special character.",
-                "author": "majvax",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "password"
                 ],

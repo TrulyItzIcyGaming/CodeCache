@@ -1,7 +1,7 @@
 ---
 title: Calculate Compound Interest
 description: Calculates compound interest for a given principal amount, rate, and time period.
-author: ACR1209
+author: ItzIcyGaming
 contributors: axorax
 tags: math,compound interest,finance
 ---

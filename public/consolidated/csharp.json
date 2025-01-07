@@ -5,7 +5,7 @@
             {
                 "title": "Hello, World!",
                 "description": "Prints Hello, World! to the terminal.",
-                "author": "chaitanya-jvnm",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "printing",
                     "hello-world"
@@ -21,7 +21,7 @@
             {
                 "title": "Generate GUID",
                 "description": "Generates a new GUID",
-                "author": "chaitanya-jvnm",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "guid",
                     "generate"
@@ -32,7 +32,7 @@
             {
                 "title": "Validate GUID",
                 "description": "Checks if a string is a valid GUID.",
-                "author": "chaitanya-jvnm",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "guid",
                     "validate"
@@ -48,7 +48,7 @@
             {
                 "title": "Decode JWT",
                 "description": "Decodes a JWT.",
-                "author": "chaitanya-jvnm",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "jwt",
                     "decode"
@@ -59,7 +59,7 @@
             {
                 "title": "Validate JWT",
                 "description": "Validates a JWT.",
-                "author": "chaitanya-jvnm",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "jwt",
                     "validate"
@@ -75,7 +75,7 @@
             {
                 "title": "Swap items at index",
                 "description": "Swaps two items at determined indexes",
-                "author": "omegaleo",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "list",
                     "swapping"
@@ -91,7 +91,7 @@
             {
                 "title": "Capitalize first letter",
                 "description": "Makes the first letter of a string uppercase.",
-                "author": "chaitanya-jvnm",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "capitalize"
@@ -102,7 +102,7 @@
             {
                 "title": "Truncate String",
                 "description": "Cut off a string once it reaches a determined amount of characters and add '...' to the end of the string",
-                "author": "omegaleo",
+                "author": "IcyIcyGaming",
                 "tags": [
                     "string",
                     "truncate"

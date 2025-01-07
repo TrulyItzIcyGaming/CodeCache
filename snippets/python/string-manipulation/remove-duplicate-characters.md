@@ -1,7 +1,7 @@
 ---
 title: Remove Duplicate Characters
 description: Removes duplicate characters from a string while maintaining the order.
-author: axorax
+author: ItzIcyGaming
 tags: string,duplicates,remove
 ---
 

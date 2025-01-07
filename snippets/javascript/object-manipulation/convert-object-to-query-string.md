@@ -1,7 +1,7 @@
 ---
 title: Convert Object to Query String
 description: Converts an object to a query string for use in URLs.
-author: axorax
+author: ItzIcyGaming
 tags: object,query string,url
 ---
 

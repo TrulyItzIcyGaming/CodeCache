@@ -1,7 +1,7 @@
 ---
 title: Hover to Reveal Color
 description: A card with an image that transitions from grayscale to full color on hover.
-author: Haider-Mukhtar
+author: ItzIcyGaming
 tags: hover,image,effects
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Pad String on Both Sides
 description: Pads a string on both sides with a specified character until it reaches the desired length.
-author: axorax
+author: ItzIcyGaming
 tags: string,pad,manipulation
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Chunk Array
 description: Splits an array into chunks of a specified size.
-author: ACR1209
+author: ItzIcyGaming
 tags: array,chunk,utility
 ---
 

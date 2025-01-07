@@ -1,7 +1,7 @@
 ---
 title: Read File Lines
 description: Reads all lines from a file and returns them as a vector of strings.
-author: Mathys-Gasnier
+author: ItzIcyGaming
 tags: file,read
 ---
 

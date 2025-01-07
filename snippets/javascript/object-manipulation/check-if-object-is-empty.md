@@ -1,7 +1,7 @@
 ---
 title: Check if Object is Empty
 description: Checks whether an object has no own enumerable properties.
-author: axorax
+author: ItzIcyGaming
 tags: object,check,empty
 ---
 

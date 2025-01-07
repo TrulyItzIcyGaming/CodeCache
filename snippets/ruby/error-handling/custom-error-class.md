@@ -1,7 +1,7 @@
 ---
 title: Custom Error Class
 description: Defines and raises a custom error class in Ruby.
-author: ACR1209
+author: ItzIcyGaming
 tags: error handling,custom error
 ---
 

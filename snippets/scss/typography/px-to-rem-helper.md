@@ -1,7 +1,7 @@
 ---
 title: PX to REM Helper
 description: This function will convert px values to rem values.
-author: gihanrangana
+author: ItzIcyGaming
 tags: function,pixel,rem,px-to-rem
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: CSS Reset
 description: Resets some default browser styles, ensuring consistency across browsers.
-author: AmeerMoustafa
+author: ItzIcyGaming
 tags: reset,browser,layout
 ---
 

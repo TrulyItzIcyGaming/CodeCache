@@ -1,7 +1,7 @@
 ---
 title: Grid Container
 description: Creates a responsive grid container with customizable column counts.
-author: dostonnabotov
+author: ItzIcyGaming
 tags: grid,layout,css
 ---
 

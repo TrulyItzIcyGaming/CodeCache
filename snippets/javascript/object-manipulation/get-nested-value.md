@@ -1,7 +1,7 @@
 ---
 title: Get Nested Value
 description: Retrieves the value at a given path in a nested object.
-author: realvishalrana
+author: ItzIcyGaming
 tags: object,nested
 ---
 
