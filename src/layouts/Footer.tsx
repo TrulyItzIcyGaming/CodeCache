@@ -16,7 +16,6 @@ const Footer = () => {
             Built with love and powered by an
               awesome community
             . 🚀
-            <span class="text"><a id="linkanimation" href="https://stacksorted.com/links/jtb-studios" target="_blank">Stack sorted.</a> </span>
           </p>
         </div>
       </footer>
