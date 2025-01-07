@@ -6,7 +6,6 @@ import ThemeToggle from "@components/ThemeToggle";
 const Header = () => {
   return (
     <header className="header">
-      <Logo />
       <nav className="primary-nav">
         <SearchInput />
         <ThemeToggle />
