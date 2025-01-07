@@ -12,9 +12,12 @@ const Header = () => {
         <SearchInput />
         <ThemeToggle />
         <LinkButton
-
+          href="#"
+          target="_blank"
+          rel="#"
         >
           <GitHubIcon />
+          <span></span>
         </LinkButton>
       </nav>
     </header>
