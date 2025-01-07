@@ -8,6 +8,14 @@ const Header = () => {
       <nav className="primary-nav">
         <SearchInput />
         <ThemeToggle />
+        <button class="chronicle-button">
+          <span>
+            <em>Stack Sorted.</em>
+          </span>
+          <span>
+            <em>Stack Sorted.</em>
+            </span>
+        </button>
       </nav>
     </header>
   );
